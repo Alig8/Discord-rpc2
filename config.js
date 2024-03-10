@@ -7,20 +7,20 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1208394624708649000",
 
-        "name": "", // title
-        "details": "", // first row below title
+        "name": "Garena Free Fire", // title
+        "details": "iPhone 13 Pro Max", // first row below title
         "state": "", // row below first row
 
-        "largeImageKey": "", // Large Image
-        "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
+        "largeImageKey": "fficon", // Large Image
+        "largeImageText": "FFicon", // the text when img surrounded (default is largeimage name in dev portal)
 
         "smallImageKey": "", // Small Image
         "smallImageText": "",
         
         // Date.now() Epoch timestamps
-        "startTimestamp": "", // time elapsed since this timestamp (increase ++)
+        "startTimestamp": "++", // time elapsed since this timestamp (increase ++)
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
